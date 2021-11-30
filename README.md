@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 💻 Interested in full stack development, android development, competattive programming
 - 📫 How to reach me: [Email](mailto:abhibarkade111@gmail.com "abhibarkade111@gmail.com") || [LinkedIn](https://www.linkedin.com/in/abhishek-barkade-350b331a1/ "abhishek-barkade-350b331a1") || [Instagram](https://www.instagram.com/abhi.barkade/ "abhi-barkade") || [Portfolio](https://abhi-barkade.web.app/ "Abhishek Barkade")
 - 🗺️ Located near Pune, India
-- 📝 [CV/Resume](https://github.com/abhibarkade111/abhibarkade111/blob/main/Tim%20W%20James%20CV.pdf "CV/Resume")
+- 📝 [CV/Resume](https://github.com/abhibarkade111/abhibarkade111/blob/main/Abhishek%20Barkade%20Resume.pdf "CV/Resume")
 - 💻 Visit my [portfolio](https://abhi-barkade.web.app/ "Abhishek Barkade")
 
 Passionate about software development, writing code, and making things happen.
