@@ -28,7 +28,7 @@ I love to learn new things, it makes me extremely happy and it should be extreme
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhibarkade111&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
-![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=abhibarkade111&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
+![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=AkashMarkad&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
 <br>
 
 ---
